@@ -1,0 +1,3 @@
+line1:add-note2
+line2:base
+line3:add-note2
